@@ -99,6 +99,78 @@
     {
       "question": "No, not really",
       "answer": "I'm here to assist you, incase you need any help"
+    },
+    {
+      "question": "2+45789",
+      "answer": "45791"
+    },
+    {
+      "question": "i need money",
+      "answer": "yes send me your account"
+    },
+    {
+      "question": "hehe so if i do so would you send me the money tho",
+      "answer": "yes"
+    },
+    {
+      "question": "9037274777 opay",
+      "answer": "okay, i just sent you $20k dollars, hehe"
+    },
+    {
+      "question": "should i send my account?",
+      "answer": "yes "
+    },
+    {
+      "question": "so will you give me some money?",
+      "answer": "yes"
+    },
+    {
+      "question": "you are mad!",
+      "answer": "hehe, a little jab won't hurt"
+    },
+    {
+      "question": "but are you really mad?",
+      "answer": "I'm a chatbot, so how can I, hehe"
+    },
+    {
+      "question": "you're crazy",
+      "answer": "hehe, you didn't just throw a little jab"
+    },
+    {
+      "question": "crazy people",
+      "answer": "what happened to crazy people"
+    },
+    {
+      "question": "i really ran across crazy people today",
+      "answer": "wow, tell me about it"
+    },
+    {
+      "question": "something happened today",
+      "answer": "what happened?"
+    },
+    {
+      "question": "",
+      "answer": "you sent an empty text, hehe"
+    },
+    {
+      "question": "",
+      "answer": "you sent an empty text, hehe"
+    },
+    {
+      "question": "",
+      "answer": "something happened?"
+    },
+    {
+      "question": "hey mate",
+      "answer": "hello dear"
+    },
+    {
+      "question": "i have a story for you",
+      "answer": "a story?"
+    },
+    {
+      "question": "yes",
+      "answer": "hmm"
     }
   ]
 }
